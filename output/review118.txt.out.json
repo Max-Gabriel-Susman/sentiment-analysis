@@ -1,0 +1,1 @@
+{"Entities": [{"DescriptiveMentionIndex": [0], "Mentions": [{"BeginOffset": 0, "EndOffset": 8, "Score": 0.990546, "GroupScore": 1.0, "Text": "Boba Dee", "Type": "BRAND", "MentionSentiment": {"Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 0.0, "Negative": 0.000312, "Neutral": 2.9e-05, "Positive": 0.999659}}}]}], "File": "review118.txt"}

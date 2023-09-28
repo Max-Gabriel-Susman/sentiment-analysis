@@ -1,0 +1,1 @@
+{"Entities": [{"DescriptiveMentionIndex": [0], "Mentions": [{"BeginOffset": 0, "EndOffset": 7, "Score": 0.999744, "GroupScore": 1.0, "Text": "Dietary", "Type": "OTHER", "MentionSentiment": {"Sentiment": "NEUTRAL", "SentimentScore": {"Mixed": 1e-06, "Negative": 1e-06, "Neutral": 0.999997, "Positive": 1e-06}}}]}], "File": "review122.txt"}

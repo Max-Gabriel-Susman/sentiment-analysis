@@ -1,0 +1,1 @@
+{"Entities": [{"DescriptiveMentionIndex": [0], "Mentions": [{"BeginOffset": 0, "EndOffset": 4, "Score": 0.893557, "GroupScore": 1.0, "Text": "Boba", "Type": "FACILITY", "MentionSentiment": {"Sentiment": "NEGATIVE", "SentimentScore": {"Mixed": 0.0, "Negative": 0.999999, "Neutral": 0.0, "Positive": 0.0}}}]}], "File": "review112.txt"}

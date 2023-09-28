@@ -1,0 +1,340 @@
+{
+    "Entities": [
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 0,
+                    "EndOffset": 6,
+                    "Score": 0.97633,
+                    "GroupScore": 1.0,
+                    "Text": "Owners",
+                    "Type": "PERSON",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 0.0,
+                            "Positive": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0,
+                1,
+                2
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 107,
+                    "EndOffset": 108,
+                    "Score": 0.999995,
+                    "GroupScore": 0.999526,
+                    "Text": "I",
+                    "Type": "PERSON",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                },
+                {
+                    "BeginOffset": 27,
+                    "EndOffset": 28,
+                    "Score": 0.999996,
+                    "GroupScore": 1.0,
+                    "Text": "I",
+                    "Type": "PERSON",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                },
+                {
+                    "BeginOffset": 119,
+                    "EndOffset": 120,
+                    "Score": 0.999995,
+                    "GroupScore": 0.519059,
+                    "Text": "I",
+                    "Type": "PERSON",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0,
+                1
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 43,
+                    "EndOffset": 48,
+                    "Score": 0.997731,
+                    "GroupScore": 1.0,
+                    "Text": "ramen",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 2.6e-05,
+                            "Negative": 1.8e-05,
+                            "Neutral": 0.999869,
+                            "Positive": 8.7e-05
+                        }
+                    }
+                },
+                {
+                    "BeginOffset": 146,
+                    "EndOffset": 151,
+                    "Score": 0.999995,
+                    "GroupScore": 0.999723,
+                    "Text": "ramen",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 2.2e-05,
+                            "Negative": 3.6e-05,
+                            "Neutral": 1.7e-05,
+                            "Positive": 0.999925
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 53,
+                    "EndOffset": 69,
+                    "Score": 0.872505,
+                    "GroupScore": 1.0,
+                    "Text": "brown sugar milk",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 70,
+                    "EndOffset": 73,
+                    "Score": 0.958352,
+                    "GroupScore": 1.0,
+                    "Text": "tea",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 79,
+                    "EndOffset": 87,
+                    "Score": 0.999807,
+                    "GroupScore": 1.0,
+                    "Text": "boba tea",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 0.000137,
+                            "Negative": 0.000915,
+                            "Neutral": 0.094732,
+                            "Positive": 0.904217
+                        }
+                    }
+                },
+                {
+                    "BeginOffset": 138,
+                    "EndOffset": 140,
+                    "Score": 0.998042,
+                    "GroupScore": 0.997732,
+                    "Text": "it",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 0.0,
+                            "Positive": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 91,
+                    "EndOffset": 94,
+                    "Score": 0.999449,
+                    "GroupScore": 1.0,
+                    "Text": "one",
+                    "Type": "QUANTITY",
+                    "MentionSentiment": {
+                        "Sentiment": "NEUTRAL",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 1.0,
+                            "Positive": 0.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 168,
+                    "EndOffset": 180,
+                    "Score": 0.998802,
+                    "GroupScore": 1.0,
+                    "Text": "presentation",
+                    "Type": "ATTRIBUTE",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 0.0,
+                            "Positive": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 232,
+                    "EndOffset": 238,
+                    "Score": 0.590441,
+                    "GroupScore": 1.0,
+                    "Text": "Celiac",
+                    "Type": "ORGANIZATION",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 1e-06,
+                            "Negative": 2.9e-05,
+                            "Neutral": 0.000125,
+                            "Positive": 0.999845
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 291,
+                    "EndOffset": 296,
+                    "Score": 0.606149,
+                    "GroupScore": 1.0,
+                    "Text": "their",
+                    "Type": "ORGANIZATION",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 0.0,
+                            "Negative": 0.0,
+                            "Neutral": 0.0,
+                            "Positive": 1.0
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "DescriptiveMentionIndex": [
+                0
+            ],
+            "Mentions": [
+                {
+                    "BeginOffset": 297,
+                    "EndOffset": 306,
+                    "Score": 0.816973,
+                    "GroupScore": 1.0,
+                    "Text": "poke bowl",
+                    "Type": "OTHER",
+                    "MentionSentiment": {
+                        "Sentiment": "POSITIVE",
+                        "SentimentScore": {
+                            "Mixed": 1e-06,
+                            "Negative": 1e-06,
+                            "Neutral": 0.0,
+                            "Positive": 0.999999
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "File": "review1.txt"
+}

@@ -1,0 +1,1 @@
+{"Entities": [{"DescriptiveMentionIndex": [0], "Mentions": [{"BeginOffset": 6, "EndOffset": 11, "Score": 0.991047, "GroupScore": 1.0, "Text": "ramen", "Type": "OTHER", "MentionSentiment": {"Sentiment": "POSITIVE", "SentimentScore": {"Mixed": 2.2e-05, "Negative": 0.0, "Neutral": 0.0, "Positive": 0.999978}}}]}], "File": "review98.txt"}

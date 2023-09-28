@@ -1,0 +1,637 @@
+{
+  "Owners": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "I": {
+    "NEUTRAL": 12,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "ramen": {
+    "NEUTRAL": 3,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "brown sugar milk": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "tea": {
+    "NEUTRAL": 4,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "boba tea": {
+    "NEUTRAL": 0,
+    "POSITIVE": 6,
+    "NEGATIVE": 0
+  },
+  "one": {
+    "NEUTRAL": 10,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "presentation": {
+    "NEUTRAL": 13,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Celiac": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "their": {
+    "NEUTRAL": 24,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "poke bowl": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "shop": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "town": {
+    "NEUTRAL": 12,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Poke Bowl": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "combination！": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "It": {
+    "NEUTRAL": 12,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "mall": {
+    "NEUTRAL": 9,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "atmosphere": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "quality": {
+    "NEUTRAL": 0,
+    "POSITIVE": 0,
+    "NEGATIVE": 10
+  },
+  "onions": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "it": {
+    "NEUTRAL": 0,
+    "POSITIVE": 11,
+    "NEGATIVE": 0
+  },
+  "desert": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Staff": {
+    "NEUTRAL": 5,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "mall restaurant": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "many": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "you": {
+    "NEUTRAL": 24,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "drink": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "watermelon": {
+    "NEUTRAL": 4,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "flavor": {
+    "NEUTRAL": 24,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "service": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "barista": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "All": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "super": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "server": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "everything": {
+    "NEUTRAL": 5,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "location": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Customer service": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "everything！": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "seasoned": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "ramen noodles": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "quality food": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "sweet": {
+    "NEUTRAL": 6,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "menu": {
+    "NEUTRAL": 4,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "vegetables": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Poke bowl": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "rice": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "Presentation": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "This": {
+    "NEUTRAL": 7,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "place": {
+    "NEUTRAL": 9,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "iced": {
+    "NEUTRAL": 3,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "coffee": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "and": {
+    "NEUTRAL": 23,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "love": {
+    "NEUTRAL": 7,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "food quality": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "variety": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Sushi": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "menu！": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "noodles": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "lunch": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "I've": {
+    "NEUTRAL": 7,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "positive": {
+    "NEUTRAL": 0,
+    "POSITIVE": 5,
+    "NEGATIVE": 0
+  },
+  "experience": {
+    "NEUTRAL": 0,
+    "POSITIVE": 4,
+    "NEGATIVE": 0
+  },
+  "options": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "quick": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "place！": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "salads": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "place.": {
+    "NEUTRAL": 6,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "friendly": {
+    "NEUTRAL": 3,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "flavors": {
+    "NEUTRAL": 3,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "spot": {
+    "NEUTRAL": 4,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "desserts": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "tables": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "the": {
+    "NEUTRAL": 46,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "food.": {
+    "NEUTRAL": 8,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "barista！": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "tables！": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "meal": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "service.": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "all": {
+    "NEUTRAL": 4,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "fresh": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "waitstaff": {
+    "NEUTRAL": 1,
+   "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "atmosphere!": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Japanese": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "pleasant": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "waitstaff!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "dishes": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "place.！": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "ambiance.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "ambiance!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "dish.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "the": {
+    "NEUTRAL": 46,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "dish": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "price": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "friendly.": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "place！": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "and": {
+    "NEUTRAL": 23,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "attentive.": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "waiters": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "sushi": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "service": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "Japanese cuisine.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "delicious": {
+    "NEUTRAL": 2,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "ambiance": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "meal!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "service!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "delicious!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "This": {
+    "NEUTRAL": 7,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "spot!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "desserts!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "fresh!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "lunch.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "Sushi!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "options!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "Presentation!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "variety!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "quick!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place.": {
+    "NEUTRAL": 6,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "Salads.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "dishes!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "flavors!": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "everything!": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "positive.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 5,
+    "NEGATIVE": 0
+  },
+  "experience.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 4,
+    "NEGATIVE": 0
+  },
+  "Options.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "menu.": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "quick.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "Place.": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  }
+}
