@@ -14,9 +14,6 @@ for i in range(1, 124):
         if text2Sentiment.get(entityName) == None:
             sentimentDict = dict({"NEUTRAL": 0, "POSITIVE": 0, "NEGATIVE": 0})
             sentiment = entity['Mentions'][0]['MentionSentiment']['Sentiment']
-        else:
-            sentimentDict = text2Sentiment[entityName]
-            sentiment = entity['Mentions'][0]['MentionSentiment']['Sentiment']
 
         if sentiment == "NEUTRAL":
             # print("sentiment is NEUTRAL")
@@ -36,5 +33,3 @@ for i in range(1, 124):
             print()
        
         text2Sentiment[entityName] = sentimentDict
-
-print(text2Sentiment)

@@ -5,14 +5,14 @@
     "NEGATIVE": 0
   },
   "I": {
-    "NEUTRAL": 12,
+    "NEUTRAL": 52,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
   "ramen": {
-    "NEUTRAL": 3,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
+    "NEUTRAL": 12,
+    "POSITIVE": 24,
+    "NEGATIVE": 1
   },
   "brown sugar milk": {
     "NEUTRAL": 1,
@@ -20,23 +20,23 @@
     "NEGATIVE": 0
   },
   "tea": {
-    "NEUTRAL": 4,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "boba tea": {
-    "NEUTRAL": 0,
+    "NEUTRAL": 5,
     "POSITIVE": 6,
     "NEGATIVE": 0
   },
+  "boba tea": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
   "one": {
-    "NEUTRAL": 10,
+    "NEUTRAL": 3,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
   "presentation": {
-    "NEUTRAL": 13,
-    "POSITIVE": 0,
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
     "NEGATIVE": 0
   },
   "Celiac": {
@@ -45,13 +45,13 @@
     "NEGATIVE": 0
   },
   "their": {
-    "NEUTRAL": 24,
-    "POSITIVE": 0,
+    "NEUTRAL": 5,
+    "POSITIVE": 10,
     "NEGATIVE": 0
   },
   "poke bowl": {
     "NEUTRAL": 0,
-    "POSITIVE": 2,
+    "POSITIVE": 1,
     "NEGATIVE": 0
   },
   "shop": {
@@ -60,7 +60,7 @@
     "NEGATIVE": 0
   },
   "town": {
-    "NEUTRAL": 12,
+    "NEUTRAL": 7,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
@@ -75,34 +75,34 @@
     "NEGATIVE": 0
   },
   "It": {
-    "NEUTRAL": 12,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
+    "NEUTRAL": 1,
+    "POSITIVE": 4,
+    "NEGATIVE": 1
   },
   "mall": {
-    "NEUTRAL": 9,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
+    "NEUTRAL": 5,
+    "POSITIVE": 2,
+    "NEGATIVE": 1
   },
   "atmosphere": {
-    "NEUTRAL": 2,
+    "NEUTRAL": 1,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
   "quality": {
-    "NEUTRAL": 0,
-    "POSITIVE": 0,
-    "NEGATIVE": 10
+    "NEUTRAL": 2,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
   },
   "onions": {
-    "NEUTRAL": 2,
+    "NEUTRAL": 1,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
   "it": {
-    "NEUTRAL": 0,
-    "POSITIVE": 11,
-    "NEGATIVE": 0
+    "NEUTRAL": 4,
+    "POSITIVE": 7,
+    "NEGATIVE": 1
   },
   "desert": {
     "NEUTRAL": 1,
@@ -110,8 +110,8 @@
     "NEGATIVE": 0
   },
   "Staff": {
-    "NEUTRAL": 5,
-    "POSITIVE": 0,
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
     "NEGATIVE": 0
   },
   "mall restaurant": {
@@ -120,33 +120,33 @@
     "NEGATIVE": 0
   },
   "many": {
-    "NEUTRAL": 2,
+    "NEUTRAL": 3,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
   "you": {
-    "NEUTRAL": 24,
-    "POSITIVE": 0,
+    "NEUTRAL": 18,
+    "POSITIVE": 1,
     "NEGATIVE": 0
   },
   "drink": {
     "NEUTRAL": 0,
-    "POSITIVE": 3,
-    "NEGATIVE": 0
+    "POSITIVE": 5,
+    "NEGATIVE": 1
   },
   "watermelon": {
-    "NEUTRAL": 4,
-    "POSITIVE": 0,
+    "NEUTRAL": 5,
+    "POSITIVE": 1,
     "NEGATIVE": 0
   },
   "flavor": {
-    "NEUTRAL": 24,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
+    "NEUTRAL": 2,
+    "POSITIVE": 5,
+    "NEGATIVE": 2
   },
   "service": {
-    "NEUTRAL": 0,
-    "POSITIVE": 3,
+    "NEUTRAL": 1,
+    "POSITIVE": 7,
     "NEGATIVE": 0
   },
   "barista": {
@@ -159,333 +159,148 @@
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
-  "super": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "server": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "everything": {
-    "NEUTRAL": 5,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "location": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "Customer service": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "everything！": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "seasoned": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "ramen noodles": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "quality food": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "sweet": {
-    "NEUTRAL": 6,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "menu": {
-    "NEUTRAL": 4,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "vegetables": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "Poke bowl": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "rice": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "Presentation": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "This": {
-    "NEUTRAL": 7,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "place": {
-    "NEUTRAL": 9,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "iced": {
-    "NEUTRAL": 3,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "coffee": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "and": {
-    "NEUTRAL": 23,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "love": {
-    "NEUTRAL": 7,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "food quality": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "variety": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "Sushi": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "menu！": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "noodles": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "lunch": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "I've": {
-    "NEUTRAL": 7,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "positive": {
-    "NEUTRAL": 0,
-    "POSITIVE": 5,
-    "NEGATIVE": 0
-  },
-  "experience": {
-    "NEUTRAL": 0,
-    "POSITIVE": 4,
-    "NEGATIVE": 0
-  },
-  "options": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "quick": {
-    "NEUTRAL": 0,
-    "POSITIVE": 3,
-    "NEGATIVE": 0
-  },
-  "place！": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "salads": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "place.": {
-    "NEUTRAL": 6,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "friendly": {
-    "NEUTRAL": 3,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "flavors": {
-    "NEUTRAL": 3,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "spot": {
-    "NEUTRAL": 4,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "desserts": {
+  "seating": {
     "NEUTRAL": 0,
     "POSITIVE": 1,
     "NEGATIVE": 0
   },
   "tables": {
     "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place": {
+    "NEUTRAL": 3,
+    "POSITIVE": 1,
+    "NEGATIVE": 1
+  },
+  "Customer": {
+    "NEUTRAL": 0,
     "POSITIVE": 2,
     "NEGATIVE": 0
   },
-  "the": {
-    "NEUTRAL": 46,
-    "POSITIVE": 0,
+  "favorite": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
     "NEGATIVE": 0
   },
-  "food.": {
-    "NEUTRAL": 8,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "barista！": {
+  "Employees": {
     "NEUTRAL": 0,
     "POSITIVE": 1,
     "NEGATIVE": 0
   },
-  "tables！": {
+  "chain": {
     "NEUTRAL": 0,
     "POSITIVE": 1,
     "NEGATIVE": 0
   },
-  "meal": {
+  "tapioca": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "Their": {
+    "NEUTRAL": 1,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "definitely": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "sugar": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "store": {
     "NEUTRAL": 2,
-    "POSITIVE": 0,
+    "POSITIVE": 2,
     "NEGATIVE": 0
   },
-  "service.": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "all": {
-    "NEUTRAL": 4,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "fresh": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "waitstaff": {
-    "NEUTRAL": 1,
-   "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "atmosphere!": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "Japanese": {
+  "staff": {
     "NEUTRAL": 2,
-    "POSITIVE": 0,
+    "POSITIVE": 3,
     "NEGATIVE": 0
   },
-  "pleasant": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "waitstaff!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "dishes": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "place.！": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "ambiance.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "ambiance!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "dish.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "the": {
-    "NEUTRAL": 46,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "dish": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "price": {
-    "NEUTRAL": 0,
-    "POSITIVE": 2,
-    "NEGATIVE": 0
-  },
-  "friendly.": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "place！": {
+  "up": {
     "NEUTRAL": 2,
-    "POSITIVE": 0,
+    "POSITIVE": 2,
     "NEGATIVE": 0
   },
-  "and": {
-    "NEUTRAL": 23,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "attentive.": {
+  "takeout": {
     "NEUTRAL": 1,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
-  "waiters": {
+  "menu": {
     "NEUTRAL": 0,
+    "POSITIVE": 4,
+    "NEGATIVE": 1
+  },
+  "you’re": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "potato salad": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "you'll": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "experience": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "They": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 1
+  },
+  "It's": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 1
+  },
+  "thing": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "This": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "dine-in": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "flavors": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "everything": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 1
+  },
+  "area": {
+    "NEUTRAL": 1,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "times": {
+    "NEUTRAL": 1,
     "POSITIVE": 1,
     "NEGATIVE": 0
   },
@@ -494,142 +309,422 @@
     "POSITIVE": 2,
     "NEGATIVE": 0
   },
-  "service": {
-    "NEUTRAL": 0,
-    "POSITIVE": 3,
-    "NEGATIVE": 0
-  },
-  "Japanese cuisine.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "delicious": {
-    "NEUTRAL": 2,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "ambiance": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "meal!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "service!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "delicious!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "This": {
-    "NEUTRAL": 7,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "spot!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "desserts!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "fresh!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "lunch.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "Sushi!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "options!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "Presentation!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "variety!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "quick!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "place.": {
-    "NEUTRAL": 6,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "Salads.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "dishes!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "flavors!": {
-    "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
-  },
-  "everything!": {
-    "NEUTRAL": 1,
-    "POSITIVE": 0,
-    "NEGATIVE": 0
-  },
-  "positive.": {
-    "NEUTRAL": 0,
-    "POSITIVE": 5,
-    "NEGATIVE": 0
-  },
-  "experience.": {
+  "nice": {
     "NEUTRAL": 0,
     "POSITIVE": 4,
     "NEGATIVE": 0
   },
-  "Options.": {
+  "my": {
     "NEUTRAL": 0,
-    "POSITIVE": 1,
-    "NEGATIVE": 0
+    "POSITIVE": 2,
+    "NEGATIVE": 1
   },
-  "menu.": {
+  "customer": {
     "NEUTRAL": 1,
     "POSITIVE": 0,
     "NEGATIVE": 0
   },
-  "quick.": {
+  "review": {
+    "NEUTRAL": 0,
+    "POSITIVE": 4,
+    "NEGATIVE": 0
+  },
+  "family": {
     "NEUTRAL": 0,
     "POSITIVE": 1,
     "NEGATIVE": 0
   },
-  "Place.": {
+  "year": {
+    "NEUTRAL": 1,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "menu items": {
+    "NEUTRAL": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "You": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "options": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "It’s": {
+    "NEPOSITIVE": 1,
+    "POSITIVE": 0,
+    "NEGATIVE": 0
+  },
+  "the": {
+    "NEUTRAL": 25,
+    "POSITIVE": 3,
+    "NEGATIVE": 1
+  },
+  "food": {
+    "NEUTRAL": 6,
+    "POSITIVE": 10,
+    "NEGATIVE": 1
+  },
+  "spot": {
+    "NEUTRAL": 1,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "I’ve": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "sandwich": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "times before": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "environment": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "bit": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "place to": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "home": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "you": {
+    "NEUTRAL": 3,
+    "POSITIVE": 6,
+    "NEGATIVE": 1
+  },
+  "place is": {
+    "NEUTRAL": 1,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "great": {
+    "NEUTRAL": 0,
+    "POSITIVE": 6,
+    "NEGATIVE": 0
+  },
+  "I'm": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 1
+  },
+  "chicken": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "place has": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "definitely recommend": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "place was": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "tasty": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "ice cream": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "sauce": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "You'll": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "you won't": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "seating area": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "soup": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "you're": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "visit": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "you can": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "place for": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "you want": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "Friendly": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "ambiance": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "food is": {
+    "NEUTRAL": 1,
+    "POSITIVE": 6,
+    "NEGATIVE": 0
+  },
+  "bar": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "fries": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "meal": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "menu is": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "location": {
+    "NEUTRAL": 1,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "something": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "I've": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "friends": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "price": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 1
+  },
+  "decor": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "enjoy": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "options for": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "restaurant": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "quick": {
+    "NEUTRAL": 0,
+    "POSITIVE": 2,
+    "NEGATIVE": 0
+  },
+  "meat": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "parking": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "The food": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "portion": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "prices": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 1
+  },
+  "This place": {
+    "NEUTRAL": 0,
+    "POSITIVE": 3,
+    "NEGATIVE": 0
+  },
+  "lot": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "options are": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "kind": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "you need": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "menu has": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "you're looking": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "coffee": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "everything is": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "breakfast": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "everyone": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place in": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place to go": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for a": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for you": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for lunch": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for dinner": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for breakfast": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for brunch": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for a meal": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place for you to": {
+    "NEUTRAL": 0,
+    "POSITIVE": 1,
+    "NEGATIVE": 0
+  },
+  "place to try": {
     "NEUTRAL": 0,
     "POSITIVE": 1,
     "NEGATIVE": 0
